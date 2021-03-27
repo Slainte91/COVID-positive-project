@@ -1,0 +1,43 @@
+﻿Title,Bookmark
+Annual Visitation Summary Report for: 2019,Bookmark this report: https://irma.nps.gov/Stats/SSRSReports/National%20Reports/Annual%20Visitation%20Summary%20Report%20(1979%20-%20Last%20Calendar%20Year)
+
+RecreationVisits,RecreationVisitorHours,NonRecreationVisits,NonRecreationVisitorHours,ConcessionerLodgingOvernights,ConcessionerCampingOvernights,TentOvernights,RecreationVehicleOvernights,BackcountryOvernights,MiscellaneousOvernights,NonRecreationOvernights,TotalOvernightStays
+"327,516,619","1,429,969,885","169,448,640","92,910,278","3,227,317","1,264,154","3,503,369","2,466,682","1,948,831","1,415,120","34,600","13,860,047"
+
+Region,TotalRecreationVisits
+Alaska Region,"3,218,301"
+Intermountain  Region,"56,032,229"
+Midwest  Region,"21,683,100"
+National Capital  Region,"54,748,049"
+Northeast  Region,"59,905,811"
+Pacific West  Region,"63,322,600"
+Southeast  Region,"68,606,529"
+
+PopulationCenter,TotalRecreationVisits
+Mixed Area,"71,308,230"
+Outlying Area,"39,600,147"
+Remote Area,"2,546,857"
+Rural Area,"77,177,825"
+Suburban Area,"46,636,745"
+Urban Area,"90,246,815"
+
+ParkType,TotalRecreationVisits
+International Historic Site,"11,613"
+National Battlefield,"2,098,172"
+National Battlefield Park,"3,555,073"
+National Historic Site,"8,850,017"
+National Historical Park,"34,732,138"
+National Lakeshore,"2,669,329"
+National Memorial,"37,653,264"
+National Military Park,"4,380,576"
+National Monument,"22,406,247"
+National Park,"91,010,784"
+National Parkway,"30,186,057"
+National Preserve,"4,014,686"
+National Recreation Area,"52,110,142"
+National Reserve,"99,311"
+National River,"3,672,947"
+National Seashore,"20,273,975"
+National Wild & Scenic River,"1,303,175"
+Park (Other),"8,489,113"
+
